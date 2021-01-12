@@ -1,0 +1,25 @@
+{
+  "name": "cypress-test-app",
+  "version": "1.0.0",
+  "description": "This is a simple app to test the functionality of cypress on a web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Craig-Spencer-12/Cypress-Test.git"
+  },
+  "author": "Craig Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Craig-Spencer-12/Cypress-Test/issues"
+  },
+  "homepage": "https://github.com/Craig-Spencer-12/Cypress-Test#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
